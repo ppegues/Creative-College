@@ -38,10 +38,9 @@ list-style-type: none;
 .break {
   clear: both;
 }
-.preference{
 
-}
-.targets{
-
+.text {
+font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+font-size: 20px;
 }
 
